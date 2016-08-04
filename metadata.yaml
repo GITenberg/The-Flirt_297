@@ -1,0 +1,35 @@
+_repo: The-Flirt_297
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tarkington, Booth
+    aliases:
+    - Tarkington, Newton Booth
+    - Van Loot, Cornelius Obenchain
+    - Tarkington, B. (Booth)
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+description: In this 1913 novel, Cora Madison, a young woman who enjoys manipulating
+  men, sets her sights on Valentine Corliss, who returns to Capitol City after an
+  extended absence. But Corliss is not what he appears to be, and the master manipulator
+  may find herself manipulated . . . .
+gutenberg_issued: '1995-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Swindlers and swindling -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Forgery -- Fiction'
+- GITenberg
+title: The Flirt
+url: http://www.gutenberg.org/ebooks/297
