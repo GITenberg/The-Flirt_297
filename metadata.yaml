@@ -1,5 +1,8 @@
 _repo: The-Flirt_297
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tarkington, Booth
@@ -16,6 +19,8 @@ description: In this 1913 novel, Cora Madison, a young woman who enjoys manipula
   men, sets her sights on Valentine Corliss, who returns to Capitol City after an
   extended absence. But Corliss is not what he appears to be, and the master manipulator
   may find herself manipulated . . . .
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/297#The-Flirt
 gutenberg_issued: '1995-07-01'
 gutenberg_type: Text
 identifiers:
